@@ -66,6 +66,46 @@
       "path": "run.sh",
       "supposedList": "created",
       "matchesCriteria": false
+    },
+    {
+      "path": "add-uuids.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "file-structure.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "find-markdown-files.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "generate-index.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "markdown-to-script-format.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "read-markdown-file.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "server.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "write-markdown-file.md",
+      "supposedList": "created",
+      "matchesCriteria": true
     }
   ],
   "verboseModeEnabled": false
