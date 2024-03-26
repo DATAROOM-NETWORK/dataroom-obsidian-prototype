@@ -14,6 +14,10 @@ day: "21"
 quarter: "1"
 week: "12"
 ---
+# Dataroom Obsidian Prototype
+
+
+
 # Introduction
 
 I like [Obsidian](https://obsidian.md) but I find how it syncs settings and plugins to be frustrating. I created this notebook to be a starter kit I could download from a central place that would give me an Obsidian notebook with settings and structure that I like. 

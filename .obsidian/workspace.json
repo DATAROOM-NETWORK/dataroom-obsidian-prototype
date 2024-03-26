@@ -152,9 +152,9 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-omnivore:Omnivore": false,
+      "periodic-notes:Open today": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false,
-      "periodic-notes:Open today": false,
       "obsidian-book-search-plugin:Create new book note": false
     }
   },
