@@ -9,6 +9,12 @@
     "typescript": "^5.0.0"
   },
   "scripts": {
-    "start": "bun run server.js"
+    "start": "bun run server.js --watch >> ../server-log.md 2>&1"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "glob": "^10.3.10",
+    "markdown-it": "^14.1.0",
+    "markdown-it-wikilinks": "^1.4.0"
   }
 }
