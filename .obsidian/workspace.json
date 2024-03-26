@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "dataroom-server.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "dataroom-server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "dataroom-server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "dataroom-server.md"
               }
             }
           },
@@ -160,15 +160,19 @@
   },
   "active": "502ed565988b3d01",
   "lastOpenFiles": [
-    "log/2024-03-26.md",
+    "run.sh",
+    "dataroom.md",
+    "dataroom-server.md",
+    "server-log.md",
+    "Screenshot from 2024-03-24 12-10-04.png",
     "README.md",
+    "log/2024-03-26.md",
     "templates/journal-entry.md",
     "templates/book.md",
     "books",
     "untitled folder",
     "media/README/62de4ca7fb3341162fb8d1b6dd373790_MD5.png",
     "media/README/2caad796a7d8ba92ad58d37467e0d3f0_MD5.png",
-    "Screenshot from 2024-03-24 12-10-04.png",
     "media/README/4cb9b55e80f7048a7ff5711bbdf43515_MD5.png",
     "media/README/44894d8e1df149568022c45f80f0ddb9_MD5.png",
     "media/README/0e49501b4b7827328d15804a10b6766d_MD5.png",
@@ -196,9 +200,6 @@
     "log/2024-W12.md",
     "log/2024.md",
     "templates/place.md",
-    "log/2024-Q1.md",
-    "log/2024-03.md",
-    "2024-03-21.md",
     "log",
     "db",
     "articles",

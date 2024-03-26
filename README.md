@@ -16,7 +16,7 @@ week: "12"
 ---
 # Dataroom Obsidian Prototype
 
-
+This is a prototype of the [[dataroom]] platform built on top of Obsidian notebooks. 
 
 # Introduction
 

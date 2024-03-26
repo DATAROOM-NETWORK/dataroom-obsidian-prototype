@@ -41,6 +41,31 @@
       "path": "templates/journal-entry.md",
       "supposedList": "created",
       "matchesCriteria": true
+    },
+    {
+      "path": "dataroom.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "server-log.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "Screenshot from 2024-03-24 12-10-04.png",
+      "supposedList": "deleted",
+      "matchesCriteria": true
+    },
+    {
+      "path": "dataroom-server.md",
+      "supposedList": "created",
+      "matchesCriteria": true
+    },
+    {
+      "path": "run.sh",
+      "supposedList": "created",
+      "matchesCriteria": false
     }
   ],
   "verboseModeEnabled": false
